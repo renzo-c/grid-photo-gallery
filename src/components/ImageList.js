@@ -7,7 +7,8 @@ const ImageContainer = styled.div`
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     grid-gap: 0 10px;
-    grid-auto-rows: 10px;
+    //height of each span used for the image
+    grid-auto-rows: 5px;
 `;
 
 const ImageList = (props) => {
