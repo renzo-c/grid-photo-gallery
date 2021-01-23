@@ -2,7 +2,7 @@
 
 This is a proof of concept that implements a photo gallery by dynamically managing different image heights 
 
-See the <a href="https://3jp7z.sse.codesandbox.io/" target="_blank">Demo</a>
+See the <a href="https://vigilant-bassi-4c436e.netlify.app/" target="_blank">Demo</a>
 
 <p align="center">
   <img align="center" width="295" height="180" src="/src/utils/images/photo-gallery.png">
